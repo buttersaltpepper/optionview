@@ -1,0 +1,11 @@
+requests
+requests-html
+selectolax
+xlrd
+google-cloud-bigquery
+google-cloud-storage
+pandas
+yfinance
+numpy
+scipy
+

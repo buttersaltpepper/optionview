@@ -1,0 +1,12 @@
+# Ignore files and directories that should not be included in the build context
+.git
+.env
+*.pyc
+__pycache__
+*.log
+
+# Ignore directories that may contain sensitive information
+keys/
+
+# Ignore files used for local development
+docker-compose.override.yml
